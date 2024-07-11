@@ -1,4 +1,4 @@
-include .common.mk
+Makefileinclude .common.mk
 
 export SPEC
 
